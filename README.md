@@ -18,5 +18,5 @@ Features will include:
 @Maintained by Andrew "Chryton" Mauney  
 @www.andrewemauney.com  
 @andrew.e.mauney@gmail.com  
-@@chrytonbaine  
+@www.twitter.com/chrytonbaine  
 @Since v0.1  
