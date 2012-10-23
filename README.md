@@ -15,8 +15,8 @@ Features will include:
 - IE 9+ Styles (IE7 is dead and 10 is coming out)
 
 
-@Maintained by Andrew "Chryton" Mauney
-@www.andrewemauney.com
-@andrew.e.mauney@gmail.com
-@@chrytonbaine
-@Since v0.1
+@Maintained by Andrew "Chryton" Mauney  
+@www.andrewemauney.com  
+@andrew.e.mauney@gmail.com  
+@@chrytonbaine  
+@Since v0.1  
