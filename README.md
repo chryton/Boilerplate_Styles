@@ -20,8 +20,8 @@ Features will include:
 - Awesomesauce
 
 
-@Maintained by Andrew "Chryton" Mauney  
-@www.andrewemauney.com  
-@andrew.e.mauney@gmail.com  
-@www.twitter.com/chrytonbaine  
-@Since v0.1  
+@ Maintained by Andrew "Chryton" Mauney  
+@ www.andrewemauney.com  
+@ andrew.e.mauney@gmail.com  
+@ www.twitter.com/chrytonbaine  
+@ Since v0.1  
